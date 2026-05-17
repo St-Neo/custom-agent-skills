@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Commits"
+  short_description: "Split branch work into commits"
+  default_prompt: "Use $make-commits to split the current branch work into a clean set of git commits."

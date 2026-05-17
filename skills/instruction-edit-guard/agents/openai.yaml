@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instruction Edit Guard"
+  short_description: "Safely edit agent instructions"
+  default_prompt: "Use $instruction-edit-guard to safely update durable agent instructions."
