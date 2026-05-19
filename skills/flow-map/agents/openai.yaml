@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flow Map"
+  short_description: "Build interactive flow maps"
+  default_prompt: "Use $flow-map to create an interactive JSON-driven HTML flow map for this architecture or workflow."

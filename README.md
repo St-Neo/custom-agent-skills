@@ -7,6 +7,7 @@ Small personal skills for Codex and Claude Code.
 - `claude-review-triage` - verify Claude review/security-review findings before changing Codex-implemented code.
 - `make-commits` - split a large branch diff into a small, coherent commit series.
 - `instruction-edit-guard` - safely edit durable agent instructions with backups and approval.
+- `flow-map` - create JSON-driven interactive HTML maps for architecture, workflows, packages, and tables.
 
 ## Excluded
 
