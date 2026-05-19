@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Prompt"
+  short_description: "Rewrite rough tasks into prompts"
+  default_prompt: "Use $agent-prompt to turn this rough instruction into an execution-ready prompt for a coding agent."

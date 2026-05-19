@@ -8,6 +8,7 @@ Small personal skills for Codex and Claude Code.
 - `make-commits` - split a large branch diff into a small, coherent commit series.
 - `instruction-edit-guard` - safely edit durable agent instructions with backups and approval.
 - `flow-map` - create JSON-driven interactive HTML maps for architecture, workflows, packages, and tables.
+- `agent-prompt` - convert rough instructions into structured prompts for coding/review agents.
 
 ## Excluded
 
