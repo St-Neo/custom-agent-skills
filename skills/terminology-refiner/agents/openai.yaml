@@ -1,0 +1,4 @@
+interface:
+  display_name: "Terminology Refiner"
+  short_description: "Clarify terms and UX copy"
+  default_prompt: "Use $terminology-refiner to clarify this wording and improve the terminology or user-facing copy."

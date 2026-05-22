@@ -9,6 +9,7 @@ Small personal skills for Codex and Claude Code.
 - `instruction-edit-guard` - safely edit durable agent instructions with backups and approval.
 - `flow-map` - create JSON-driven interactive HTML maps for architecture, workflows, packages, and tables.
 - `agent-prompt` - convert rough instructions into structured prompts for coding/review agents.
+- `terminology-refiner` - clarify terminology, resolve ambiguous wording, and improve UX/product copy.
 
 ## Excluded
 
